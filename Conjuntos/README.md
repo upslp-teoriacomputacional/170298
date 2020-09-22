@@ -131,8 +131,8 @@ if ($iS==1)
 
 }#!/usr/bin/perl
 
-# Nombre Archivo 170298_Conjuntos.pl
-# Nombre: Manuel Camacho Rodriguez
+# Nombre Archivo 170298_Compuestas.pl
+# Nomgbre: Manuel Camacho Rodriguez
 # Matricula: 170298
 # Profesor: Juan Carlos González Ibarra
 # Descripcion: Programa en el cual se crean tablas de verdad.
