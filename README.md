@@ -97,4 +97,7 @@ if ($estado == 3){ #Cuando sea una cadena valida muestra el siguinete mensaje
     &body;
      print "\n|                Cadena Valida :)                     |\n";
 
-}    
+}   
+
+
+
